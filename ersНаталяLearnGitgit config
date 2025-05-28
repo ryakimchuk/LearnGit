@@ -1,0 +1,50 @@
+[33mcommit 1a654f013c16908197535688c3ae3ed69ff8a6b4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nataliya Syvovus <nataliya.syvovus@gmail.com>
+Date:   Wed May 28 12:28:43 2025 +0300
+
+    test test test
+
+[33mcommit 63caf992a0517e2a2c737298f1bb92d307cecc40[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Тетяна Єлетіна <tetynatrohimenko@gmail.com>
+Date:   Tue May 27 20:57:50 2025 +0300
+
+    test
+
+[33mcommit c7eff6464d8e130d611b5d29a9661283de844eb3[m
+Merge: 6c702dc 4808fa7
+Author: Roman <roman@Romans-MacBook-Air.local>
+Date:   Tue May 27 19:46:18 2025 +0200
+
+    added 3rd file to the project
+
+[33mcommit 6c702dcdb23cf168cc63cd161bd3a92284c61a42[m
+Author: Roman <roman@Romans-MacBook-Air.local>
+Date:   Tue May 27 19:36:57 2025 +0200
+
+    added 3rd file to the project
+
+[33mcommit 4808fa7e1f94b76dd7dc236a1e990d6a6a4b777d[m
+Author: Roman Yakymchuk <yakimchuk.r.v@gmail.com>
+Date:   Tue May 27 19:34:02 2025 +0200
+
+    Create new file
+
+[33mcommit 786d9e5552713b443aed9ce86bd2abc819feeaa4[m
+Author: Roman <roman@Romans-MacBook-Air.local>
+Date:   Tue May 27 19:24:27 2025 +0200
+
+    New file added to the repo
+
+[33mcommit 25db42c25d809e3a272f4e7bfdb4b3b9adfcd86d[m
+Author: Roman Yakymchuk <yakimchuk.r.v@gmail.com>
+Date:   Mon May 26 20:16:34 2025 +0200
+
+    Update README.md
+    
+    added description to the Readme file
+
+[33mcommit 9e504607e6709776748c59e64abc52aa997f2acb[m
+Author: Roman Yakymchuk <yakimchuk.r.v@gmail.com>
+Date:   Mon May 26 00:31:18 2025 +0200
+
+    Initial commit
